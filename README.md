@@ -1,6 +1,5 @@
 # Game Jam Code - Dream Big
 
-The song “Am I Dreaming” from the soundtrack of "Spiderman: Across the Spider-Verse" got me thinking more about dreams and how they can make you feel hopeful for the future. 
+In this project, I attempted to make my own version of Google’s Dinosaur Game (T-Rex run!) with a unique twist – controlling the dinosaur (a girl named Lily, in this case) with a spacebar to make Lily jump over “fear clouds” and collect 3 dreams.
 
-The Chrome Dino Game inspired the mechanics and challenge of the game:
-The player clicks the spacebar to make the character, Lily, jump over “fear clouds” and collect all 3 dreams in the game.
+Utilizing p5.js and the p5play JavaScript library, this game uses object-oriented programming in script.js to create objects that represent Lily, the clouds, and the dreams. 
