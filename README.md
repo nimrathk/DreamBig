@@ -5,7 +5,7 @@
 
 Instead of a dinosaur, you play as **Lily**, a girl chasing her dreams and dodging “fear clouds.” The goal? **Collect 3 dreams** while avoiding fear—and don't stop running.
 
-![Game Screenshot](dreambig-screenshot.png)
+![Game Screenshot](assets\dreambig-screenshot.png)
 
 ## 🎮 Gameplay Overview
 
