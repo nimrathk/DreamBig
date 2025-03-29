@@ -1,7 +1,43 @@
-# Game Jam Code - Dream Big
 
-In this project, I made my own version of Google’s Dinosaur Game (T-Rex run!) with a new twist – controlling the dinosaur (a girl named Lily in my game) with a spacebar to jump over the cacti (“fear clouds”) and collect 3 dreams along the way.
+# 🌟 Dream Big — A Game Jam Project
 
-The user wins after collecting all 3 dreams, and loses if fails to collect all the dreams or crashes into a "fear cloud."
+**Dream Big** is a reimagined version of the classic Google Chrome T-Rex game—with a twist of inspiration and empowerment.
 
-Utilizing p5.js and the p5play JavaScript library, this game simulates real-life physics in a virtual game environment. I also use object-oriented programming in script.js to create objects that represent Lily, the clouds, and the dreams which each have their own classes.
+Instead of a dinosaur, you play as **Lily**, a girl chasing her dreams and dodging “fear clouds.” The goal? **Collect 3 dreams** while avoiding fear—and don't stop running.
+
+![Game Screenshot](dreambig-screenshot.png)
+
+## 🎮 Gameplay Overview
+
+- Press **spacebar** to make Lily jump.
+- Dodge **fear clouds** (obstacles).
+- Collect all **3 dreams** to win.
+- Crash into fear or miss a dream, and it's game over.
+
+## 💡 Features
+
+- Built using **p5.js** and **p5.play** for smooth game physics and interactivity.
+- **Object-Oriented JavaScript**: Each game element (Lily, dreams, clouds) is built with its own class and behavior.
+- Dynamic and responsive game loop with increasing difficulty.
+
+## 🛠️ Tech Stack
+
+- JavaScript (ES6+)
+- p5.js & p5.play
+- HTML/CSS
+- Replit-compatible (with `.replit` and `replit.nix` files)
+
+## 📁 Files & Structure
+
+- `index.html` – Main HTML container for the game
+- `script.js` – Core game logic
+- `Lily.js`, `Dreams.js`, `Cloud.js` – Class definitions for each game object
+- `style.css` – Custom styling
+- `assets/` – Sprites and images for characters and objects
+
+## 🚀 How to Play
+
+1. Clone the repo or open in Replit.
+2. Run the HTML file.
+3. Press the **spacebar** to start jumping.
+4. Dodge clouds 🌫️ and collect dreams 💭 to win!
