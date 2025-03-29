@@ -40,4 +40,4 @@ Instead of a dinosaur, you play as **Lily**, a girl chasing her dreams and dodgi
 1. Clone the repo or open in Replit.
 2. Run the HTML file.
 3. Press the **spacebar** to start jumping.
-4. Dodge clouds 🌫️ and collect dreams 💭 to win!
+4. Dodge clouds ☁️ and collect dreams ✨ to win!
